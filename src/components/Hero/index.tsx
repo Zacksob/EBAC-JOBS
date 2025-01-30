@@ -34,6 +34,7 @@ const ContentWrapper = styled.div`
 
 const HeroTitle = styled.h1`
   font-size: 48px;
+  font-family: Gloock, serif;
 
   @media (max-width: 768px) {
     font-size: 32px;
